@@ -8,7 +8,7 @@ Let `n = 3`, the number of elements
 
 - For `arr[0] = 2`, counter starts at 0 and there are no elements to the left, so `counter = 0`.
 - For `arr[1] = 4`, counter starts at 0 and then increases by `|4 - 2| = 2` at the first and only comparison: `counter = 2`.
-- Testing `arr[2] = 3`, first against 2, `counter = 0 - |3 - 4| = -1`, and then against 2, `counter = -1 + |3 - 2| = 0`.
+- Testing `arr[2] = 3`, first against 4, `counter = 0 - |3 - 4| = -1`, and then against 2, `counter = -1 + |3 - 2| = 0`.
 
 The answer array is `[0, 2, 0]`.
 
