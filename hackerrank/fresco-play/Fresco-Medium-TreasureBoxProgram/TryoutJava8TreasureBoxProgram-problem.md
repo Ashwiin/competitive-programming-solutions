@@ -10,7 +10,7 @@ An example of a solved treasure box is as follows.
 
 ![Treasure Box Diagram](treasure-box-diagram.jpg)
 
-**Treasure Box diagram path:** `hackerrank/arrays/TreasureBoxProgram/treasure-box-diagram.jpg`
+**Treasure Box diagram path:** `hackerrank/fresco-play/Fresco-Medium-TreasureBoxProgram/treasure-box-diagram.jpg`
 
 - `order`: 3
 - `sourceRow`: 1
